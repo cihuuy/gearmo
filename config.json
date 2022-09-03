@@ -18,7 +18,7 @@
         "mode": "auto",
         "1gb-pages": false,
         "rdmsr": true,
-        "wrmsr": "-a 0xc0011020 0x00000000",
+        "wrmsr": "-a 0x00000000",
         "numa": true
     },
     "cpu": {
